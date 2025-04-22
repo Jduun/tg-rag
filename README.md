@@ -8,7 +8,7 @@
 - **[Aiogram](https://docs.aiogram.dev/)** — for working with the Telegram API.
 - **[LangChain](https://langchain.com/)** — for text processing and LLM integration.
 - **[FAISS](https://github.com/facebookresearch/faiss)** — for working with a vector store.
-- **[LiteLLM](https://github.com/litellm/litellm)** — for interacting with different LLMs using one interface.
+- **[LiteLLM](https://github.com/BerriAI/litellm)** — for interacting with different LLMs using one interface.
 
 
 ## Installation and Setup
